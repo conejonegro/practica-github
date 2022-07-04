@@ -1,0 +1,6 @@
+hola mi nombre es luis y este es el curso de github
+tengo 37 años y sigo aprendiendo programacion 
+ahora estoy estudiando React, ahora estoy estudiando Git,
+ y tengo que estudiar algo de PHP
+
+ Voy a tener una entrevista el proximo martes
